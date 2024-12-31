@@ -1851,7 +1851,7 @@
 	  "scrollbar.shadow": "#000000",
 	  "activityBar.foreground": "#d0e612",
 	  "activityBar.background": "#333333",
-	  "activityBar.inactiveForeground": "#000000",
+	  "activityBar.inactiveForeground": "#8d8d8d",
 	  "activityBarBadge.foreground": "#000000",
 	  "activityBarBadge.background": "#d0e612",
 	  "sideBar.background": "#252526",
