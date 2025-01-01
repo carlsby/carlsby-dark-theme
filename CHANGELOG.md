@@ -1,9 +1,4 @@
 # Change Log
 
-All notable changes to the "carlsby-dark-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## 2025-01-01: Logo change
+* Changed logo to a dinosaur
