@@ -10,10 +10,8 @@ Carlsby's Darker Theme is a sophisticated and sleek dark theme designed to provi
 
 - **Dark Background:** The base of the theme is a deep, rich dark background that reduces eye strain, perfect for long periods of use.
 - **Yellow/Green Accents:** Carefully selected shades of yellow and green serve as accent colors for headings, buttons, links, and highlights. These accents add a pop of color without overwhelming the design.
-- **Customizable:** Easily tweakable settings to adjust brightness, contrast, and accent colors to fit personal preferences.
 - **Minimalistic and Elegant:** The theme emphasizes clean design and simplicity, with no unnecessary elements cluttering the screen.
 - **Optimized for Night-Time Use:** The dark colors reduce glare, making it ideal for use in low-light or nighttime environments.
-- **Responsive Design:** Works seamlessly across various screen sizes and devices.
 
 ## Usage
 
