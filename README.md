@@ -23,5 +23,7 @@ Carlsby's Darker Theme is ideal for:
 - **Coding:** With code-friendly syntax highlighting in subtle tones of yellow and green, this theme is perfect for developers working in Visual Studio Code.
 
 ## License
-
 This theme is licensed under the MIT License. Feel free to use it, modify it, and distribute it as per the terms of the license.
+
+## Attributes
+Logo from <a href="https://uxwing.com/">uxwing.com</a>. Free to use under their <a href="https://uxwing.com/license/">license</a>.
