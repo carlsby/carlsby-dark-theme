@@ -1969,7 +1969,7 @@
 	  "panelTitle.activeBorder": "#e7e7e7",
 	  "panelTitle.activeForeground": "#e7e7e7",
 	  "panelTitle.inactiveForeground": "#e7e7e799",
-	  "badge.background": "#b1b1b1",
+	  "badge.background": "#ffea00ce",
 	  "badge.foreground": "#000000",
 	  "terminal.foreground": "#cccccc",
 	  "terminal.selectionBackground": "#ffffff40",
